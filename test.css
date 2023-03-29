@@ -1,0 +1,13 @@
+body {
+    color: brown;
+}
+
+a {
+    color: rgb(21, 255, 0);
+    font-size: 30px;
+}
+
+.box1 {
+    color: blue;
+    font-size: 20px;
+}
