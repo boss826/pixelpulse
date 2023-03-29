@@ -3,11 +3,11 @@ body {
 }
 
 a {
-    color: blue;
+    color: rgb(21, 255, 0);
     font-size: 30px;
 }
 
-.class1 {
+.box1 {
     color: blue;
     font-size: 20px;
 }
